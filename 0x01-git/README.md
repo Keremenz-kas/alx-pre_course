@@ -1,1 +1,1 @@
-first git directory
+updated readme using git
